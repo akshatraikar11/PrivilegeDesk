@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PrivilegeDesk.ExpiryService": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
